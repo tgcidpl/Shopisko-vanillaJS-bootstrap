@@ -1,2 +1,2 @@
-# Shopisko-vanillaJS
-online shop project with vanillaJS, bootstrap, and vite
+# Shopisko-vanillaJS-bootstrap
+online shop project with vanillaJS and bootstrap
